@@ -1,0 +1,11 @@
+C:\Users\KIN\Desktop\Xử lí ảnh\ViDu1\ViDu1\bin\Debug\ViDu1.exe.config
+C:\Users\KIN\Desktop\Xử lí ảnh\ViDu1\ViDu1\bin\Debug\ViDu1.exe
+C:\Users\KIN\Desktop\Xử lí ảnh\ViDu1\ViDu1\bin\Debug\ViDu1.pdb
+C:\Users\KIN\Desktop\Xử lí ảnh\ViDu1\ViDu1\obj\Debug\ViDu1.csproj.AssemblyReference.cache
+C:\Users\KIN\Desktop\Xử lí ảnh\ViDu1\ViDu1\obj\Debug\ViDu1.Form1.resources
+C:\Users\KIN\Desktop\Xử lí ảnh\ViDu1\ViDu1\obj\Debug\ViDu1.Properties.Resources.resources
+C:\Users\KIN\Desktop\Xử lí ảnh\ViDu1\ViDu1\obj\Debug\ViDu1.csproj.GenerateResource.cache
+C:\Users\KIN\Desktop\Xử lí ảnh\ViDu1\ViDu1\obj\Debug\ViDu1.csproj.CoreCompileInputs.cache
+C:\Users\KIN\Desktop\Xử lí ảnh\ViDu1\ViDu1\obj\Debug\ViDu1.exe
+C:\Users\KIN\Desktop\Xử lí ảnh\ViDu1\ViDu1\obj\Debug\ViDu1.pdb
+C:\Users\KIN\Desktop\Xử lí ảnh\ViDu1\ViDu1\obj\Debug\ViDu1.csproj.SuggestedBindingRedirects.cache
